@@ -1,0 +1,15 @@
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\bin\Debug\FolderWatcherClient.exe.config
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\bin\Debug\FolderWatcherClient.exe
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\bin\Debug\FolderWatcherClient.pdb
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.csprojResolveAssemblyReference.cache
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.Form1.resources
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.Properties.Resources.resources
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.csproj.GenerateResource.Cache
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.exe
+D:\Projetos Pessoais\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.pdb
+D:\Projetos Pessoais\project-folder-watcher\FolderWatcherClient\FolderWatcherClient\bin\Debug\FolderWatcherClient.exe.config
+D:\Projetos Pessoais\project-folder-watcher\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.exe
+D:\Projetos Pessoais\project-folder-watcher\FolderWatcherClient\FolderWatcherClient\obj\Debug\FolderWatcherClient.pdb
+D:\Projetos Pessoais\project-folder-watcher\FolderWatcherClient\bin\Debug\FolderWatcherClient.exe.config
+D:\Projetos Pessoais\project-folder-watcher\FolderWatcherClient\obj\Debug\FolderWatcherClient.exe
+D:\Projetos Pessoais\project-folder-watcher\FolderWatcherClient\obj\Debug\FolderWatcherClient.pdb
